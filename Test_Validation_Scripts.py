@@ -1,7 +1,7 @@
 import requests
 import os
 
-api_key = ""
+api_key = "<api-key>"
 X_TENANT_ID = "Workspace 1"
 headers = {"X-API-Key": api_key, "X-Tenant-ID": X_TENANT_ID}
 
